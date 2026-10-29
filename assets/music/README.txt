@@ -1,0 +1,1 @@
+Dodaj tutaj swoje pliki audio, np. piosenka-1.mp3 i piosenka-2.mp3. Serwer automatycznie pokaże je na playliście po odświeżeniu strony. Obsługiwane: mp3, m4a, ogg, wav, aac, flac, opus, weba. Nie dodawaj muzyki, której nie masz prawa publikować.
